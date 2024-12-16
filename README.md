@@ -20,7 +20,7 @@ To set up ThreatTracer on your local machine:
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-repo-name.git
+https://github.com/CyberScienceLab/Threat-Tracer.git
 cd your-repo-name
 Dataset Preparation
 Caldera Dataset
