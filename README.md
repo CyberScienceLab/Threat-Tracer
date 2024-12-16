@@ -21,7 +21,7 @@ To set up ThreatTracer on your local machine:
 bash
 Copy code
 https://github.com/CyberScienceLab/Threat-Tracer.git
-cd your-repo-name
+cd Threat- Tracer
 Dataset Preparation
 Caldera Dataset
 1.	Install and configure the Caldera platform as per Caldera Documentation.
